@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.output/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Claude Code ephemeral output
+.claude/review-output/
+.claude/settings.local.json
+
+# Git worktrees
+.worktrees/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
