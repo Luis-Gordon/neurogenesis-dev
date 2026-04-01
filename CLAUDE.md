@@ -19,6 +19,14 @@ Web application — Express API + React frontend.
 | `npm run lint` | Run linter |
 | `npm run typecheck` | TypeScript type checking |
 
+## Tooling
+
+### CLI Tools
+| Tool | When to Use |
+|------|-------------|
+| `gh` | PRs, issues, CI checks, releases |
+| `npm` | Package management, running scripts |
+
 ## Repository Structure
 
 ```text
